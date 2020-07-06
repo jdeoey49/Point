@@ -62,7 +62,7 @@ int main()
     }
     else
     {
-        cout<<"\nInvalid date\n";//tell user invalid data was entered
+        cout<<"\nInvalid data\n";//tell user invalid data was entered
     }//end main
 }
 
